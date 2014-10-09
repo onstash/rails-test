@@ -39,3 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'sqlite3'
+gem 'ckeditor'
+gem 'paperclip'
